@@ -1,0 +1,6 @@
+Data analysis for graphical data .
+Need to get data from somewhere.
+
+Need one perfect graph .
+Only allow small deviations from the graph. 
+The rest are to be rejected.
